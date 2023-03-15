@@ -1,6 +1,5 @@
 # Product cards
 - [DEMO LINK](https://lehendzevych.github.io/layout_product-cards/)
-- [TEST REPORT LINK](https://lehendzevych.github.io/layout_product-cards/report/html_report/)
 
 > Follow [this instruction](https://mate-academy.github.io/layout_task-guideline)
 ___
